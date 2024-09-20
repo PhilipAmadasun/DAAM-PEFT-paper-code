@@ -1,4 +1,3 @@
-```markdown
 # Density Adaptive Attention
 
 DensityAdaptiveAttention is a PyTorch library providing modules for applying density adaptive attention mechanisms that can approximate any Probability Distribution to derive attention weights. This library offers a novel approach to enhance neural network models with adaptive attention capabilities, inspired by density distribution principles.
@@ -102,4 +101,3 @@ Contributions to the DensityAdaptiveAttention library are welcome!
 ## License
 
 This project is licensed under Apache-2.0 - see the LICENSE file in the repository for details.
-```
