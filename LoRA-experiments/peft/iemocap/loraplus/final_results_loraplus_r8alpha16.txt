@@ -1,0 +1,5 @@
+Fold 1, Best validation accuracy rate: 0.2759407069555302, Number of trainable parameters: 787460
+Fold 2, Best validation accuracy rate: 0.2826923076923077, Number of trainable parameters: 787460
+Fold 3, Best validation accuracy rate: 0.20491273432449902, Number of trainable parameters: 787460
+Fold 4, Best validation accuracy rate: 0.20635994587280107, Number of trainable parameters: 787460
+Fold 5, Best validation accuracy rate: 0.2461212976022567, Number of trainable parameters: 787460

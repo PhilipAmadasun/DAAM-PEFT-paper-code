@@ -1,0 +1,1 @@
+Best validation accuracy rate: 0.3807, Number of trainable parameters: 888932
